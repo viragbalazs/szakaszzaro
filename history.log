@@ -1,0 +1,79 @@
+ 426  cd /f
+  427  cd /flow
+  428  cd flow
+  429  git clone https://github.com/viragbalazs/szakaszzaro.git
+  430  git checkout -b dev
+  431  ls -la
+  432  cd szakaszzaro
+  433  git checkout -b dev
+  434  git checkout -b feature
+  435  sudo nano 1.feladat.js
+  436  nano 1feladat.js
+  437  ls- la
+  438  ls -la
+  439  touch 1.feladat.js
+  440  ls -la
+  441  touch 2.feladat.js
+  442  touch 3.feladat.js
+  443  touch 4.feladat.js
+  444  touch 5.feladat.js
+  445  touch 6.feladat.js
+  446  touch 7.feladat.js
+  447  ls -la
+  448  touch gitignore
+  449  touch .gitignore
+  450  .gitignore
+  451  ls -la
+  452  echo .gitignore >
+  453  cat .gitignore > # Dependency directories
+  454  echo .gitignore > # Dependency directories
+  455  echo # Dependency directories >> .gitignore
+  456  cat .gitignore
+  457  ls -la
+  458  nano .gitignore
+  459  rm -r gitignore
+  460  ls -la
+  461  cat .gitignore
+  462  rm -r .gitignore
+  463  ls -la
+  464  touch .gitignore
+  465  ls -la
+  466  echo # Dependency directories
+  467  node_modules/
+  468  jspm_packages/
+  469  # dotenv environment variables file
+  470  .env
+  471  cat .gitignore
+  472  echo # Dependency directories-n node_modules/-n jspm_packages/-n # dotenv environment variables file-n .env >> .gitignore
+  473  cat .gitignore
+  474  ls -la
+  475  history
+  476  cat "# Dependency directories-n node_modules/-n jspm_packages/-n # dotenv environment variables file-n .env" >> .gitignore
+  477  echo dependency directories >> .gitignore
+  478  cat .gitignore
+  479  echo node_modules> .gitignore
+  480  cat .gitignore
+  481  rm -r .gitignore
+  482  ls -la
+  483  touch .gitignore
+  484  echo Dependency directories > .gitignore
+  485  echo node_modules > .gitignore
+  486  cat .gitignore
+  487  echo Dependency directories > .gitignore
+  488  echo node_modules >> .gitignore
+  489  cat .gitignore
+  490  rm -r .gitignore
+  491  touch .gitignore
+  492  echo Dependency directories > .gitignore
+  493  echo node_modules/ >> .gitignore
+  494  cat .gitignore
+  495  echo jspm_packages/ >> .gitignore
+  496  cat .gitignore
+  497  echo # dotenv environment variables file >> .gitignore
+  498  cat .gitignore
+  499  echo dotenv environment variables file >> .gitignore
+  500  cat .gitignore
+  501  echo .env >> .gitignore
+  502  cat .gitignore
+  503  history
+
